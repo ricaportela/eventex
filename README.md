@@ -1,5 +1,5 @@
 # eventex
-Projeto Eventex do curso Welcome to the Django - WTTD
+Projeto Eventex
 
 Aplicação disponível em https://eventex-wttd-ricaportela.herokuapp.com/
 
